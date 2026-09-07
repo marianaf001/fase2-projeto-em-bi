@@ -18,7 +18,7 @@ Dados brutos → Python + Pandas (limpeza → padronização → tratamento → 
              → Análise de Risco de Estoque
 ```
 
-Veja o diagrama completo em [`docs/arquitetura.png`](docs/arquitetura.png).
+Veja o diagrama completo em [`docs/arquitetura.png`](docs/arquitetura.jpeg).
 
 ## Estrutura do repositório
 
